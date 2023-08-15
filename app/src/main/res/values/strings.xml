@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Project_3</string>
+    <string name="playlist">Playlist</string>
+    <string name="name_video">Name_Video</string>
+    <string name="col_video">col_video</string>
+    <string name="todo">TODO</string>
+    <string name="tv_playlist">Playlist</string>
+    <string name="tv_self_care_before_child_care">Self_care_before_child_care</string>
+    <string name="tv_32_video_series">32_video_series</string>
+</resources>
